@@ -1,6 +1,6 @@
 from IPython.display import display, HTML
 
-# Your HTML code as a string
+
 html_content = '''
 <!DOCTYPE html>
 <html lang="en">
@@ -132,5 +132,5 @@ html_content = '''
 </html>
 '''
 
-# Render the HTML content in Google Colab
+
 display(HTML(html_content))
